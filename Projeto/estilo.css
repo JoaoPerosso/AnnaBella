@@ -1,0 +1,34 @@
+body{
+    background: #d2d3c1 url(Imagens/fundo.png);
+    font: 16px Arial, Helvetica, sans-serif;
+}
+#principal{
+    width: 900px;
+}
+#titulo{
+    color: #c5c5b2;
+}    
+#menu{
+    background-color: #c5c5b2;
+    padding: 10px;
+}
+.negrito{
+    font-weight: bold;
+}
+a{
+    color:#4b566a;
+    font-weight: bold;
+    text-decoration: none; /*Remove underline*/
+    padding: 5px;
+} 
+#conteudo{
+    background: #e8eed9;
+    padding: 10px;
+}
+#centralizar{
+    font-weight: bold;
+    text-align: center;
+}
+.bordas{
+    border:10px solid #c5c5b2;
+}
